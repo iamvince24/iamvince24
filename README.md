@@ -1,6 +1,7 @@
-![My Name is Vince.png](https://res.craft.do/user/full/6e51b78d-bb10-9598-78bc-b1dd033f3f34/doc/C875A9ED-14DF-49BB-B9A7-4E92E6D8A3B4/F256B64F-ED5E-418F-A0DF-6691C527F430_2/AMpGmQvJ9v0mP40rW4aiQMJyDYik92T8moKYDRQEHYYz/My%20Name%20is%20Vince.png)
+![My Name is Vince.png](https://github.com/iamvince24/iamvince24/blob/main/My%20Name%20is%20Vince.png)
 
 # Hi, my name is Vince!👋
+
 
 I am looking for a position as a front-end engineer.
 
