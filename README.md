@@ -22,7 +22,7 @@ My current goal is to utilize my design experience and communication skills in a
 
 ## Technologies & Tools ⚒️
 
-#### React
+#### JavaScript(React)
 
 Hook / Router / Redux
 
