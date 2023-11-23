@@ -3,7 +3,6 @@
 
 # Hi, my name is Vince!👋
 
-
 I am looking for a position as a front-end engineer.
 
 Originally a graphic designer with two years of work experience, specializing in communicating requirements and focusing on visual design for user experience. I transitioned to the software industry because I want to develop products that are more widely used.
@@ -23,19 +22,23 @@ My current goal is to utilize my design experience and communication skills in a
 
 ## Technologies & Tools ⚒️
 
-#### JavaScript(React)
+### React
 
-Hook / Router / Redux
+React Hooks / Router / Redux
 
-#### Web Layout
+### JavaScript
+
+ES5 / ES6+ / DOM / Event handling / Await & Async / Fetch API
+
+### Web Layout
 
 Tailwind CSS / SCSS / RWD / HTML / CSS
 
-#### Others
+### Back End
 
-Version Control - Git / Github
+PHP / MySQL
 
-Authentication - Firebase
+### Others
 
-Design - Figma / Adobe Illustrator / Adobe Photoshop / Adobe Indesign
+Webpack / Git & Github / Firebase / Adobe / Figma
 
