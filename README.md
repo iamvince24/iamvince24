@@ -1,4 +1,5 @@
-![My Name is Vince.png](https://github.com/iamvince24/iamvince24/blob/main/My%20Name%20is%20Vince.png)
+![My Name is Vince.png](https://github.com/iamvince24/iamvince24/blob/main/mynameisvince.png)
+
 
 # Hi, my name is Vince!👋
 
