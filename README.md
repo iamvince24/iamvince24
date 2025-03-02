@@ -16,4 +16,4 @@ I am looking for a position as a front-end engineer.
 
 ## Skills ⚒️
 
-React / TypeScript / Next.js / GraphQL / Ant Design / Styled-Components / Material UI / Tailwind CSS / Redux
+React / TypeScript / Next.js / Redux / GraphQL / Material UI / Ant Design / Styled-Components / Tailwind CSS
