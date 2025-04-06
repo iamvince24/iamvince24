@@ -11,8 +11,8 @@ I am looking for a position as a front-end engineer.
 
 ## Projects 🧑🏻‍💻
 
-- [**Re-Re**](https://re-re-pi.vercel.app/) - A tool for Recording and Reviewing your learning. → [Repo](https://github.com/iamvince24/Re-Re)
-- [**Front-Enter**](https://front-enter.vercel.app/) - The website for front-end career transition resources. → [Repo](https://github.com/iamvince24/Front-Enter)
+- **[Front-Enter](https://frontenter-nextjs-mongodb.vercel.app/)** - The website for front-end career transition resources. → [Repo](https://github.com/iamvince24/frontenter-nextjs-mongodb)
+- **[Re-Re](https://re-re-pi.vercel.app/)** - A tool for Recording and Reviewing your learning. → [Repo](https://github.com/iamvince24/Re-Re)
 
 ## Skills ⚒️
 
