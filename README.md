@@ -11,8 +11,8 @@ I am looking for a position as a front-end engineer.
 
 ## Projects 🧑🏻‍💻
 
-- **[Front-Enter](https://frontenter-nextjs-mongodb.vercel.app/)** - The website for front-end career transition resources. → [Repo](https://github.com/iamvince24/frontenter-nextjs-mongodb)
-- **[Re-Re](https://re-re-pi.vercel.app/)** - A tool for Recording and Reviewing your learning. → [Repo](https://github.com/iamvince24/Re-Re)
+- **[Serenity Canvas](https://serenity-canvas-theta.vercel.app/)** - An infinite canvas whiteboard with offline-first storage and cloud sync, built as a
+  web alternative to Obsidian Canvas. → [Repo](https://github.com/iamvince24/serenity-canvas)
 
 ## Skills ⚒️
 
